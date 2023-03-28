@@ -1,0 +1,1 @@
+The NLP project will predict the languges and also it translate the language using google translate api
